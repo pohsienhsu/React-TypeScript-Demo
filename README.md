@@ -1,3 +1,3 @@
-# React Typescript Todo Demo
+# React TypeScript Todo Demo
 
-A React demo utilizing Typescript to create a simple todo tracking app.
+A React demo utilizing TypeScript to create a simple todo tracking app.
